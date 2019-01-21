@@ -82,8 +82,8 @@
         <splash height="2732" src="resources/ios/splash/Default@2x~universal~anyany.png" width="2732" />
     </platform>
     <plugin name="cordova-plugin-googlemaps" spec="2.4.6">
-        <variable name="API_KEY_FOR_ANDROID" value="AIzaSyDHY3SLJrzEYN-nWVsI5ix4dU1hrL5TJ3o" />
-        <variable name="API_KEY_FOR_IOS" value="AIzaSyDHY3SLJrzEYN-nWVsI5ix4dU1hrL5TJ3o" />
+        <variable name="API_KEY_FOR_ANDROID" value="XXXX" />
+        <variable name="API_KEY_FOR_IOS" value="XXXX" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="2.0.2" />
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
